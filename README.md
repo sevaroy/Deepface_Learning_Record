@@ -50,6 +50,10 @@ faceit_live3 即時視訊換臉 只需一張圖片
 
 https://github.com/alew3/faceit_live3
 
+avatarify 即時視訊換臉 只需一張圖片
+
+https://github.com/alievk/avatarify
+
 Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set
 
 https://github.com/microsoft/Deep3DFaceReconstruction
