@@ -2,6 +2,10 @@
 
 ## 人臉辨識與識別
 
+Ultra-Light-Fast-Generic-Face-Detector-1MB
+
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+
 Face Recognition Using Pytorch 
 
 https://github.com/timesler/facenet-pytorch
@@ -38,6 +42,17 @@ FaceSwap
 
 https://github.com/MarekKowalski/FaceSwap
 
+faceit_live 即時視訊換臉
+
+https://github.com/alew3/faceit_live
+
+faceit_live3 即時視訊換臉 只需一張圖片
+
+https://github.com/alew3/faceit_live3
+
+Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set
+
+https://github.com/microsoft/Deep3DFaceReconstruction
 
 ## 生成對抗網路應用
 
