@@ -1,10 +1,43 @@
 # Face_Learning_Record
 
-## 人臉辨識
+## 人臉辨識與識別
 
 Face Recognition Using Pytorch 
 
 https://github.com/timesler/facenet-pytorch
+
+facedetect
+
+https://github.com/shadowjohn/108facedetect
+
+FaceRec (A simple working facial recognition program.)
+
+https://github.com/vudung45/FaceRec
+
+Face Recognition
+
+https://github.com/ageitgey/face_recognition
+
+Face Detection & Tracking & Extract
+
+This project can detect , track and extract the optimal face in multi-target faces (exclude side face and select the optimal face).
+
+https://github.com/sevaroy/Face-Track-Detect-Extract
+
+臉部偵測 use Python
+
+https://github.com/flidw55/FaceDetect-1
+
+## DeepFake
+
+FaceJam
+
+https://github.com/ctralie/FaceJam
+
+FaceSwap
+
+https://github.com/MarekKowalski/FaceSwap
+
 
 ## 生成對抗網路應用
 
@@ -14,10 +47,3 @@ Adding Adversarial loss and perceptual loss (VGGface) to deepfakes'(reddit user)
 
 https://github.com/shaoanlu/faceswap-GAN
 
-## 人臉識別
-
-FaceRec
-
-A simple working facial recognition program.
-
-https://github.com/vudung45/FaceRec
